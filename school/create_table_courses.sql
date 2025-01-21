@@ -1,0 +1,5 @@
+CREATE TABLE courses(
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  name TEXT,
+  description TEXT
+);

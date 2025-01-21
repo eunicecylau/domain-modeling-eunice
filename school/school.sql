@@ -14,6 +14,9 @@ CREATE TABLE students (
   phone_number TEXT
 );
 
+
+
+
 -- Create the rest of the tables
 
 
